@@ -1,0 +1,14 @@
+mode: count
+GeeCache/model/lru.go:3.47,4.31 1 2
+GeeCache/model/lru.go:10.2,10.19 1 1
+GeeCache/model/lru.go:4.31,9.3 3 1
+GeeCache/model/lru.go:13.32,15.16 2 0
+GeeCache/model/lru.go:15.16,21.25 5 0
+GeeCache/model/lru.go:21.25,23.4 1 0
+GeeCache/model/lru.go:27.46,28.33 1 1
+GeeCache/model/lru.go:40.2,40.47 1 1
+GeeCache/model/lru.go:28.33,34.3 4 0
+GeeCache/model/lru.go:34.8,38.3 3 1
+GeeCache/model/lru.go:40.47,42.3 1 0
+GeeCache/model/lru.go:45.29,47.2 1 0
+GeeCache/model/model.go:27.74,34.2 1 1
